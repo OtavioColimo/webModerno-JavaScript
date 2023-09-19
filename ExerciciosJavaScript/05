@@ -1,0 +1,7 @@
+let maiorOuIgual = function(n1, n2){
+    return n1 >= n2
+}
+
+console.log(maiorOuIgual(7,4))
+console.log(maiorOuIgual(6,6))
+console.log(maiorOuIgual(1,10))
