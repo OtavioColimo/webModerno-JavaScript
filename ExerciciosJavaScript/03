@@ -1,0 +1,5 @@
+let monthlySalary = function(amountOfHours,valuesHours){
+    console.log(`Salário igual a R$ ${amountOfHours*valuesHours}`)
+}
+
+monthlySalary(220,15)

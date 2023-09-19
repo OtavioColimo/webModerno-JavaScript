@@ -1,0 +1,5 @@
+let anosParaDias = function(anos){
+    return console.log(anos * 365)
+}
+
+anosParaDias(22)
